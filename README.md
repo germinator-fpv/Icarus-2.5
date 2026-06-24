@@ -14,14 +14,14 @@ This design is a work in progress. a 3D printed protoype was built but it hasn't
 I started this project because i felt like 2.5in fpv drone frames were hard to find, why not try to make one for fun.
 
 ## 2. Specifications
-Purpose: Freestyle drone optimized for backyard flight
-Propellers: 2.5-inch prop compatibilityFrame 
-Layout: Wide X configuration
-Camera Mounting: Compatible with 14x14mm nano cameras
-Battery Placement: Top-mount configuration (over the frame)
-Deck Dimensions: Clearance for a 71mm long battery
-Target Weight: Sub-100g All-Up Weight (AUW) or lighter
-Mounting Patterns: Dual compatibility with 25.5x25.5mm and 20x20mm stacks
+* Purpose: Freestyle drone optimized for backyard flight
+* Propellers: 2.5-inch prop compatibilityFrame 
+* Layout: Wide X configuration
+* Camera Mounting: Compatible with 14x14mm nano cameras
+* Battery Placement: Top-mount configuration (over the frame)
+* Deck Dimensions: Clearance for a 71mm long battery
+* Target Weight: Sub-100g All-Up Weight (AUW) or lighter
+* Mounting Patterns: Dual compatibility with 25.5x25.5mm and 20x20mm stacks
 
 ## 3. Bill Of Materials
 
