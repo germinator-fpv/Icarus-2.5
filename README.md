@@ -15,8 +15,8 @@ I started this project because i felt like 2.5in fpv drone frames were hard to f
 
 ## 2. Specifications
 * Purpose: Freestyle drone optimized for backyard flight
-* Propellers: 2.5-inch prop compatibilityFrame 
-* Layout: Wide X configuration
+* Propellers: 2.5-inch prop compatibility
+* Frame Layout: Wide X configuration
 * Camera Mounting: Compatible with 14x14mm nano cameras
 * Battery Placement: Top-mount configuration (over the frame)
 * Deck Dimensions: Clearance for a 71mm long battery
