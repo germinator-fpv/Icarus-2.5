@@ -12,6 +12,8 @@ This design is a work in progress. a 3D printed protoype was built but it hasn't
 
 ## 1. Introduction
 I started this project because i felt like 2.5in fpv drone frames were hard to find, why not try to make one for fun.
+<img width="378" height="810" alt="Screenshot 2026-06-24 140415" src="https://github.com/user-attachments/assets/5d3db309-0157-482e-a46a-40323239e8db" />
+<img width="924" height="725" alt="Screenshot 2026-06-24 135841" src="https://github.com/user-attachments/assets/2fb70152-8495-452a-8756-77df1d0f7c59" />
 
 ## 2. Specifications
 * Purpose: Freestyle drone optimized for backyard flight
