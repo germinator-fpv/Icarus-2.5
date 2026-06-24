@@ -1,8 +1,7 @@
 # Icarus-2.5
-2.5 inch FPV Drone Prototype compatible with the Kayoumini camera mount.
-This design is a work in progress. It was not built and tested yet. TPU parts need fit testing.
+2.5 inch FPV Drone Prototype.
+This design is a work in progress. a 3D printed protoype was built but it hasn't flown yet. Camera mount fit testing has begun.
 
-<img width="1507" height="802" alt="image" src="https://github.com/user-attachments/assets/f669900f-7051-459e-aaff-f74ab23a017b" />
-
-
-<img width="1168" height="689" alt="image" src="https://github.com/user-attachments/assets/d8f715f7-59e3-4846-8f04-31b6dee31ff5" />
+<img width="4032" height="2268" alt="PXL_20260624_135239680 MP" src="https://github.com/user-attachments/assets/fae363af-3569-45f5-983f-4b10983b8ae1" />
+<img width="4032" height="2268" alt="PXL_20260624_135251121 MP" src="https://github.com/user-attachments/assets/f323ba8e-50fe-48c6-ad57-2e5063786b60" />
+<img width="4032" height="2268" alt="PXL_20260624_135847123 MP" src="https://github.com/user-attachments/assets/5acfdb5d-976b-4faa-9ca6-937a85898bd9" />
