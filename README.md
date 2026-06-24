@@ -4,15 +4,15 @@ This design is a work in progress. a 3D printed protoype was built but it hasn't
 
 <img width="4032" height="2268" alt="PXL_20260624_135847123 MP" src="https://github.com/user-attachments/assets/5acfdb5d-976b-4faa-9ca6-937a85898bd9" />
 ## Table of Contents
-* [1. Introduction](#1-Introduction)
-* [2. Specifications](#2-Specifications)
-* [3. Bill Of Materials](#3-Bill-Of-Materials)
-* [4. Pictures](#4-Pictures)
+* [1. Introduction](#1-introduction)
+* [2. Specifications](#2-specifications)
+* [3. Bill Of Materials](#3-bill-of-materials)
+* [4. Pictures](#4-pictures)
 
-##1. Introduction
+## 1. Introduction
 I started this project because i felt like 2.5in fpv drone frames were hard to find, why not try to make one for fun.
 
-##2. Specifications
+## 2. Specifications
 Freestyle drone for flying in my backyard
 2.5in Propellers
 Wide X frame
@@ -22,7 +22,7 @@ Deck length to accommodate 71mm long battery
 Sub 100g AUW or lighter
 Compatibility with 25.5x25.5 and 20x20 stack
 
-##3. Bill Of Materials
+## 3. Bill Of Materials
 
 | Index| Description | Part | Quantity |
 | -------- | -------- |-------- |-------- |
@@ -36,7 +36,7 @@ Compatibility with 25.5x25.5 and 20x20 stack
 | 8 | Top bolt | M2 flat head 6mm | 4 |
 | 9 | Bottom bolt | M2 round head 6mm | 4 |
 
-##4. Pictures
+## 4. Pictures
 <img width="4032" height="2268" alt="PXL_20260624_135239680 MP" src="https://github.com/user-attachments/assets/fae363af-3569-45f5-983f-4b10983b8ae1" />
 <img width="4032" height="2268" alt="PXL_20260624_135251121 MP" src="https://github.com/user-attachments/assets/f323ba8e-50fe-48c6-ad57-2e5063786b60" />
 
