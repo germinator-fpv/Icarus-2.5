@@ -1,5 +1,5 @@
 # Icarus-2.5
-2.5 inch Freestyle FPV Drone Prototype 102g AUW. The TPU part could be improve but it flies without issues.
+2.5 inch Freestyle FPV Drone Prototype 102g AUW. The TPU parts could be improved but it flies without issues.
 Sharing is what makes this hobby great.
 
 <img width="4032" height="2268" alt="PXL_20261009_122746619 MP" src="https://github.com/user-attachments/assets/aa559ca5-d05e-43cf-b747-8148563433bd" />
