@@ -4,7 +4,7 @@ Sharing is what makes this hobby great.
 
 <img width="4032" height="2268" alt="PXL_20261009_122746619 MP" src="https://github.com/user-attachments/assets/aa559ca5-d05e-43cf-b747-8148563433bd" />
 
-Flight footage:
+## Video
 
 [![Icarus-2.5 FPV flight](https://img.youtube.com/vi/bdVMA0iM4Uk/0.jpg)](https://www.youtube.com/watch?v=bdVMA0iM4Uk)
 
