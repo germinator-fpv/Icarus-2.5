@@ -15,10 +15,12 @@ Flight footage:
 
 ## 1. Introduction
 I started this project because i felt like 2.5in fpv drone frames were hard to find, why not try to make one for fun.
-I designed all the parts using FreeCAD
+I designed all the parts using FreeCAD.
 
 <img width="4032" height="2268" alt="PXL_20261009_122937281 MP" src="https://github.com/user-attachments/assets/06f95431-3a31-4f04-ac86-0761b9fdfa92" />
 <img width="4032" height="2268" alt="PXL_20261009_122925509 MP" src="https://github.com/user-attachments/assets/81dabd34-dc04-456f-a3eb-08d00251dd9b" />
+<img width="924" height="725" alt="Screenshot 2026-06-24 135841" src="https://github.com/user-attachments/assets/28b61b4d-d9cc-4c4f-a519-c1e620d6dc99" />
+<img width="378" height="810" alt="Screenshot 2026-06-24 140355" src="https://github.com/user-attachments/assets/ce0485fa-f6ea-4bde-980b-df579c997d64" />
 
 
 ## 2. Specifications
