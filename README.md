@@ -1,8 +1,8 @@
 # Icarus-2.5
-2.5 inch FPV Drone Prototype.
-This design is a work in progress. a 3D printed protoype was built but it hasn't flown yet. Camera mount fit testing has begun.
+2.5 inch FPV Drone 102g AUW.
 
-<img width="4032" height="2268" alt="PXL_20260624_135847123 MP" src="https://github.com/user-attachments/assets/5acfdb5d-976b-4faa-9ca6-937a85898bd9" />
+[![Icarus-2.5 FPV flight](https://youtube.com)](https://www.youtube.com/watch?v=bdVMA0iM4Uk)
+
 
 ## Table of Contents
 * [1. Introduction](#1-introduction)
