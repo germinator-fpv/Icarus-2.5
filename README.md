@@ -1,10 +1,10 @@
 # Icarus-2.5
-2.5 inch FPV Drone 102g AUW.
+2.5 inch Freestyle FPV Drone Prototype 102g AUW.
 
 <img width="4032" height="2268" alt="PXL_20261009_122746619 MP" src="https://github.com/user-attachments/assets/aa559ca5-d05e-43cf-b747-8148563433bd" />
 
+Flight footage:
 [![Icarus-2.5 FPV flight](https://img.youtube.com/vi/bdVMA0iM4Uk/0.jpg)](https://www.youtube.com/watch?v=bdVMA0iM4Uk)
-
 
 ## Table of Contents
 * [1. Introduction](#1-introduction)
