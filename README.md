@@ -1,5 +1,6 @@
 # Icarus-2.5
-2.5 inch Freestyle FPV Drone Prototype 102g AUW.
+2.5 inch Freestyle FPV Drone Prototype 102g AUW. The TPU part could be improve but it flies without issues.
+Sharing is what makes this hobby great.
 
 <img width="4032" height="2268" alt="PXL_20261009_122746619 MP" src="https://github.com/user-attachments/assets/aa559ca5-d05e-43cf-b747-8148563433bd" />
 
@@ -14,6 +15,8 @@ Flight footage:
 
 ## 1. Introduction
 I started this project because i felt like 2.5in fpv drone frames were hard to find, why not try to make one for fun.
+I designed all the parts using FreeCAD
+
 <img width="4032" height="2268" alt="PXL_20261009_122937281 MP" src="https://github.com/user-attachments/assets/06f95431-3a31-4f04-ac86-0761b9fdfa92" />
 <img width="4032" height="2268" alt="PXL_20261009_122925509 MP" src="https://github.com/user-attachments/assets/81dabd34-dc04-456f-a3eb-08d00251dd9b" />
 
